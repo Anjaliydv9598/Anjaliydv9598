@@ -1,7 +1,6 @@
 <!-- 🌈 PREMIUM HEADER -->
-<!-- 🌊 Elegant Smooth Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,50:928dab,100:2c3e50&height=230&section=header&text=Anjali%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Clean%20%26%20Scalable%20Full%20Stack%20Applications&descSize=18&descColor=dcdcdc&descAlignY=60" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=SpringBoot+%7C+React+%7C+SQL" />
 </p>
 
 <!-- 💜 Typing Glow Animation -->
