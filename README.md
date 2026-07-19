@@ -1,5 +1,4 @@
-<!-- 🌈 Header Wave Animation -->
-<!-- 🌈 Animated Gradient Header -->
+<!-- 🌈 Animated Gradient Header   🎀  --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:fbc2eb&height=250&section=header&text=Anjali%20%F0%9F%92%96&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm Anjali</h1>
@@ -22,9 +21,6 @@
     <img src="https://img.shields.io/badge/Gmail-fbc2eb?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
-<!-- 🎀 If You Want DARK + PREMIUM LOOK (Alternative)  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Anjali%20🚀&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18" />
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
