@@ -1,7 +1,30 @@
 <!-- 🌈 Header Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Anjali%20|%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<!-- 🌈 Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:fbc2eb&height=250&section=header&text=Anjali%20%F0%9F%92%96&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
 
-# 👋 Hi, I'm Anjali
+<h1 align="center">Hi 👋, I'm Anjali</h1>
+
+<h3 align="center">
+💻 Turning ideas into reality with code <br>
+🚀 Passionate Java Full Stack Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Clean+Code+%7C+DSA+Enthusiast;Always+Learning+New+Things+✨&center=true&width=550&height=50&color=ff69b4">
+</p>
+
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-fbc2eb?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<!-- 🎀 If You Want DARK + PREMIUM LOOK (Alternative)  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Anjali%20🚀&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18" />
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
@@ -63,9 +86,15 @@
 
 ## 📊 GitHub Stats ⚡
 
+<!-- 📊 Advanced GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjaliydv9598&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaliydv9598&theme=tokyonight"/>
+</p>
+
+<!-- 🔥 Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaliydv9598&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -73,7 +102,7 @@
 ## 🐍 Contribution Snake (3D Style 😎)
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Anjaliydv9598/Anjaliydv9598/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,7 +113,7 @@
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+💼 LinkedIn: https://linkedin.com/in/anjali-yadav-665144387
 
 ---
 
