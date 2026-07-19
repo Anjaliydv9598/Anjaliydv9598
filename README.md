@@ -1,6 +1,6 @@
 <!-- 🌈 PREMIUM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=260&section=header&text=Anjali%20💖&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=55&descSize=20" />
-
+<!-- 🌈 Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Anjali%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descSize=20&descAlignY=55" />
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <h3 align="center">
