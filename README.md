@@ -1,9 +1,5 @@
 <!-- 🌈 PREMIUM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fbc2eb,100:a18cd1&height=250&section=header&text=Anjali%20💖&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descSize=22&descColor=2d2d2d&descAlignY=60" />
-<h3 align="center">
-💻 Turning ideas into reality with code <br>
-🚀 Passionate Java Full Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ANJALI%20✨&fontSize=50&fontColor=00f7ff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descSize=22&descColor=ffffff&descAlignY=60" />
 
 <!-- ✨ SINGLE CLEAN TYPING ANIMATION -->
 <p align="center">
