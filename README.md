@@ -9,10 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=4000&color=A8B2D1&center=true&vCenter=true&lines=SpringBoot+%7C+React+%7C+SQL;Clean+Code+%7C+DSA+Enthusiast;Building+Scalable+Applications" />
 </p>
 
-<!-- 💜 Typing Glow Animation -->
+<!-- 💜 Typing Glow Animation 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer+🚀;SpringBoot+%7C+React+%7C+SQL;Building+Real+World+Projects+💡;Clean+Code+%7C+DSA+💜" />
-</p>
+</p>  -->
 
 
 <p align="center">
