@@ -1,7 +1,7 @@
 <!-- 🌈 PREMIUM HEADER -->
-<!-- 🔥 Glass + Neon Premium Header -->
+<!-- 🌊 Elegant Smooth Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,50:243b55,100:0f2027&height=260&section=header&text=ANJALI%20✨&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=30&desc=Crafting%20Scalable%20Full%20Stack%20Applications%20🚀&descSize=20&descColor=00f7ff&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,50:928dab,100:2c3e50&height=230&section=header&text=Anjali%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Clean%20%26%20Scalable%20Full%20Stack%20Applications&descSize=18&descColor=dcdcdc&descAlignY=60" />
 </p>
 
 <!-- 💜 Typing Glow Animation -->
