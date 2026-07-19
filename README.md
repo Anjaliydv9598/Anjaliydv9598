@@ -130,5 +130,5 @@
 
 <!-- 🌊 FOOTER -->
 <p align="center">
-  <i>✨ Building with passion. Growing with consistency. 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:414345,100:232526&height=120&section=footer" />
 </p>
