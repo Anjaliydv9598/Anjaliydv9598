@@ -1,5 +1,5 @@
-<!-- 🌈 Animated Gradient Header   🎀  --> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:fbc2eb&height=250&section=header&text=Anjali%20%F0%9F%92%96&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=55&descSize=18" />
+<!-- 🌈 PREMIUM HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=260&section=header&text=Anjali%20💖&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=55&descSize=20" />
 
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
@@ -8,43 +8,41 @@
 🚀 Passionate Java Full Stack Developer
 </h3>
 
+<!-- ✨ SINGLE CLEAN TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Clean+Code+%7C+DSA+Enthusiast;Always+Learning+New+Things+✨&center=true&width=550&height=50&color=ff69b4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Clean+Code+%7C+DSA+Enthusiast;Always+Learning+New+Things+✨&center=true&width=550&height=50&color=6A5ACD">
 </p>
 
-
+<!-- 🌸 SOCIALS -->
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/anjali-yadav-665144387">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-fbc2eb?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
-<!-- 🔥 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast&center=true&width=500&height=45">
-</p>
+<!-- 💎 DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212897782-965815c7-9c8c-4e2b-9a2e-07c56c5c8c88.gif" width="100%">
 
 ---
 
 ## 🧠 About Me
-💻 Full Stack Developer (Java + React)  
+💻 Java Full Stack Developer (Fresher)  
 🔥 Strong in Core Java, JDBC & Hibernate  
 ⚡ Building scalable backend using Spring Boot  
-🎯 Goal: Software Engineer in Top MNC  
-📚 Daily DSA Practice  
+🎯 Goal: Software Engineer in a top MNC  
+📚 Practicing DSA daily  
 
 ---
 
 ## 🛠️ Tech Stack 🚀
 
-<!-- 💎 Badges -->
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
 
@@ -57,7 +55,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 
 </p>
@@ -65,11 +63,11 @@
 ---
 
 ## 📈 What I Do
-🚀 Build Full Stack Web Applications  
+🚀 Build full-stack web applications  
 🔗 Create REST APIs using Spring Boot  
-🔄 Connect Frontend with Backend  
-🗄️ Work with Databases (JDBC & Hibernate)  
-🧠 Solve DSA Problems  
+🔄 Integrate frontend with backend  
+🗄️ Work with databases (JDBC & Hibernate)  
+🧠 Solve DSA problems  
 
 ---
 
@@ -82,20 +80,18 @@
 
 ## 📊 GitHub Stats ⚡
 
-<!-- 📊 Advanced GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaliydv9598&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaliydv9598&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Anjaliydv9598&theme=tokyonight"/>
 </p>
 
-<!-- 🔥 Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaliydv9598&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (3D Style 😎)
+## 🐍 Contribution Snake 🐍
 
 <p align="center">
   <img src="https://github.com/Anjaliydv9598/Anjaliydv9598/blob/output/github-contribution-grid-snake.svg" />
@@ -103,17 +99,17 @@
 
 ---
 
-## 🔥 Fun Fact
-💬 *"First, solve the problem. Then, write the code."*
+## 💬 Quote
+✨ *"First, solve the problem. Then, write the code."*
 
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/anjali-yadav-665144387
+💼 LinkedIn: https://linkedin.com/in/anjali-yadav-665144387  
 
 ---
 
 ⭐ Thanks for visiting my profile!
 
-<!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<!-- 🌊 FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:7F7FD5&height=120&section=footer"/>
