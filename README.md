@@ -1,6 +1,7 @@
 <!-- 🌈 PREMIUM HEADER -->
+<!-- 🌊 Premium Elegant Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=SpringBoot+%7C+React+%7C+SQL" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:1c1c1c&height=240&section=header&text=Anjali%20✨&fontSize=50&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descSize=20&descColor=dcdcdc&descAlignY=60" />
 </p>
 
 <!-- 💜 Typing Glow Animation -->
