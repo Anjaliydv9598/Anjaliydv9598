@@ -1,10 +1,24 @@
 <!-- 🌈 PREMIUM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ANJALI%20✨&fontSize=50&fontColor=00f7ff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20🚀&descSize=22&descColor=ffffff&descAlignY=60" />
+<!-- 🔥 Glass + Neon Premium Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,50:243b55,100:0f2027&height=260&section=header&text=ANJALI%20✨&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=30&desc=Crafting%20Scalable%20Full%20Stack%20Applications%20🚀&descSize=20&descColor=00f7ff&descAlignY=60" />
+</p>
 
-<!-- ✨ SINGLE CLEAN TYPING ANIMATION -->
+<!-- 💜 Typing Glow Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer+🚀;SpringBoot+%7C+React+%7C+SQL;Building+Real+World+Projects+💡;Clean+Code+%7C+DSA+💜" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anjaliydv9598&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+
+<!-- ✨ SINGLE CLEAN TYPING ANIMATION 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Clean+Code+%7C+DSA+Enthusiast;Always+Learning+New+Things+✨&center=true&width=550&height=50&color=6A5ACD">
-</p>
+</p>-->
 
 <!-- 🌸 SOCIALS -->
 <p align="center">
