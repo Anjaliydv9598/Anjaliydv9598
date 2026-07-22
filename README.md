@@ -43,7 +43,7 @@
 💻 Java Full Stack Developer (Fresher)  
 🔥 Strong in Core Java, JDBC & Hibernate  
 ⚡ Building scalable backend using Spring Boot  
-🎯 Goal: Software Engineer in a top MNC  
+🎯 Aspiring Software Engineer 
 📚 Practicing DSA daily  
 
 ---
